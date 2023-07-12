@@ -9,6 +9,6 @@
 <p>3. Using the same rationality, we can also find the ratio per airport of delayed flights.</p>
 <hr>
 <h2>Conclusion</h2>
-<p>You can find the code for this project on the file [get_delays.py](https://github.com/JZunaRepo/Flight_delays-Cost_analysis/blob/main/get_delays.py) </p>
+<p>You can find the code for this project on the file [get_delays.py][https://github.com/JZunaRepo/Flight_delays-Cost_analysis/blob/main/get_delays.py] </p>
 
 
